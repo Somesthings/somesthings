@@ -1,0 +1,40 @@
+body {
+	/* background */
+  background-image: linear-gradient(#006699, #00cc99);
+  }
+  
+  /* text */
+  body {
+ color: white;
+}
+ body {
+ color: white;
+}
+
+  /* link */
+a:link {
+  color: red;
+}
+a:visited {
+  color: blue;
+}
+a:hover {
+  color: hotpink;
+}
+a:active {
+  color: blue;
+}
+a {
+  font-family: Lucida Console;
+  font-size: 100%;
+}
+
+/* parallax */
+.parallax {
+  background-image: url("https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2uCzt?ver=eb50&q=90&m=2&h=768&w=1024&b=%23FFFFFFFF&aim=true");
+  height: 50%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
